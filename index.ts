@@ -8,7 +8,6 @@ function pad(num: number): string {
 }
 
 export function momentToString(m: Moment): string {
-   moment.locale('fa')
    return [
       moment.weekdays(m.weekday()),
       m.date(),
