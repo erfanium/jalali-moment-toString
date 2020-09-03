@@ -3,7 +3,7 @@ convert jalali moment to persian readable string
 
 ```ts
 const now = moment()
-const string = momentToString(now)
+const string = momentToString(now) // from index.ts file
 
 console.log(string) 
 ```
