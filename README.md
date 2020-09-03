@@ -1,5 +1,5 @@
 # jalali-moment-toString
-convert jalali moment to persian string
+convert jalali moment to persian readable string
 
 ```ts
 const now = moment()
